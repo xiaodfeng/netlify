@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2015 on Jinji</title>
+    <link>/categories/2015/</link>
+    <description>Recent content in 2015 on Jinji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/2015/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>昨日</title>
+      <link>/cn/2015-11-29-/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/2015-11-29-/</guid>
+      <description>暑期的规矩，向来是要有一篇写在后面的感想的，回来已经很久了，迟迟没有动笔，不是因为不想写，实则不敢。今日动笔，翻阅自己的小日记本，半回忆半照</description>
+    </item>
+    
+  </channel>
+</rss>

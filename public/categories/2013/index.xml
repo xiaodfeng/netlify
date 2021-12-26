@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013 on Jinji</title>
+    <link>/categories/2013/</link>
+    <description>Recent content in 2013 on Jinji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>时光易逝，年华易老</title>
+      <link>/cn/2013-06-11-/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/2013-06-11-/</guid>
+      <description>这是咏史诗的必答步骤，以前上学时一直理解不透，现在才知道是什么感觉，高考已经结束了，两天之内，我看遍了上学时想看的电影，每日凌晨两点睡，上午</description>
+    </item>
+    
+  </channel>
+</rss>

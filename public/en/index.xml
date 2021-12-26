@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Jinji</title>
+    <link>/en/</link>
+    <description>Recent content in Blog on Jinji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Question During Judo Testing and Some Thoughts</title>
+      <link>/en/a-question-during-judo-testing/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/a-question-during-judo-testing/</guid>
+      <description>“When your parents first learned that you were practicing judo, what was their reaction? You know, since judo is a martial art and you may hurt yourself during practice. They might feel worried”. This is one of the questions on the judo belt test yesterday.  Ryan said his parents might have little concerns but they are fine with him doing it.
+Taylor said her mom is very supportive, sometimes she even asks Taylor to do some throws on her.</description>
+    </item>
+    
+  </channel>
+</rss>

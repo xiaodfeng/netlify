@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2014 on Jinji</title>
+    <link>/categories/2014/</link>
+    <description>Recent content in 2014 on Jinji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>无忘当时</title>
+      <link>/cn/2014-08-29-/</link>
+      <pubDate>Fri, 29 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/2014-08-29-/</guid>
+      <description>中国农业大学峰云社 2014年人文科考队. 支教篇 “当一艘船沉入海底，当一个人成了谜。你不知道，他们为何离去，那声再见竟是他最后一句……” 今天是</description>
+    </item>
+    
+  </channel>
+</rss>

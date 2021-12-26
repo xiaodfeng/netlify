@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on Jinji</title>
+    <link>/categories/2019/</link>
+    <description>Recent content in 2019 on Jinji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>世界上存在跟你同名同姓的人吗？</title>
+      <link>/cn/2019-10-06-/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/2019-10-06-/</guid>
+      <description>不知你有没有想过这个问题，在这颗地球上，70 多亿人当中，和你同名同姓的人有多少？ 前段时间在土马（Toastmaster）作了一个 Ice breaker( 自我介绍</description>
+    </item>
+    
+    <item>
+      <title>游-向死而生，寻梦环游墨西哥</title>
+      <link>/cn/2019-01-01-/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/2019-01-01-/</guid>
+      <description>写在前面 今年是在美国 读PhD的第一年，所以寒假决定和友人一同去墨西哥看看。决定当晚，就买了往返的机票，结果就是，第二天去实验室时，实验室的人</description>
+    </item>
+    
+  </channel>
+</rss>
