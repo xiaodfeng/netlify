@@ -1,0 +1,122 @@
+baseurl: /
+languageCode: en-us
+title: Jinji
+theme: "hugo-ivy"
+googleAnalytics: ""
+disqusShortname: "jinjipang"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+hasCJKLanguage: true
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: ↩
+rssLimit: 100
+
+
+permalinks:
+  note: /note/:year/:month/:day/:slug/
+  post: /post/:year/:month/:day/:slug/
+
+menu:
+  main:
+    - name: "About"
+      url: "/en/about/"
+      weight: 1
+    - name: "Blog"
+      url: "/en/"
+      weight: 2
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 3
+    - name: "日志"
+      url: "/cn/"
+      weight: 4
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "Vitae"
+      url: "/en/vitae/"
+      weight: 4
+    - name: "R"
+      url: "/en/r/"
+      weight: 5 
+    - name: "VMPM & STAT"
+      url: "/vmpm/"
+      weight: 6 
+    - name: "中文"
+      url: "/cn/"
+      weight: 7
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "日志"
+      url: "/cn/"
+      weight: 3
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 4
+    - name: "菜谱"
+      url: "/cn/recipe/"
+      weight: 5
+    - name: "English"
+      url: "/en/"
+      weight: 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+params:
+  description: "Welcome to Jinji's planet."
+  footer: "&copy; [Jinji](https://jinjipang.com) 2021 | [Github](https://github.com/JinjiPang) | [Twitter](https://twitter.com/PangKimki)"
+  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+  highlightjsVersion: "9.12.0"
+  disqusURL: "https://jinjipang.com"
+  customJS:
+    - "js/fix-toc.js"
+    - "js/center-img.js"
+    - "js/right-quote.js"
+    - "js/no-highlight.js"
+    - "js/fix-footnote.js"
+    - "js/math-code.js"
+    - "js/external-link.js"
+    - "js/alt-title.js"
+    - "js/header-link.js"
+  author:
+    en: "Kimki"
+    cn: "金吉"
+  
+  
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+    fractions: false
+
+  
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+
+
+
