@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Jinji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,45 +14,9 @@
     <item>
       <title>2021</title>
       <link>/categories/2021/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2019</title>
-      <link>/categories/2019/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2015</title>
-      <link>/categories/2015/</link>
-      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2014</title>
-      <link>/categories/2014/</link>
-      <pubDate>Fri, 29 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2013</title>
-      <link>/categories/2013/</link>
-      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/2013/</guid>
       <description></description>
     </item>
     
