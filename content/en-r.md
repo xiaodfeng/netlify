@@ -5,8 +5,15 @@ title: Problem solving Notes
 slug: "en/r"
 ---
 
-## Disclaimer 
-> To save my time finding codes(since I can't remember all of them), I made some notes here. These codes were all from online resources and I might have made some adjustments or might not. Copyright belongs to the original author, please inform site owner if any infringement. 
+# Powerpoint
+
+- Some of your fonts cannot be saved with the presentation
+
+```r
+Soveled according to https://www.youtube.com/watch?v=Xzwam-hNkP0.
+file-options-save-do not use embed fonts in the file
+```
+
 
 
 # R
@@ -40,14 +47,6 @@ ggplot(df, aes(x=x var, y=y var)) +
         legend.text = element_text(size=10)) #change legend text font size
 ```
 
-# Powerpoint
-
-- Some of your fonts cannot be saved with the presentation
-
-```r
-Soveled according to https://www.youtube.com/watch?v=Xzwam-hNkP0.
-file-options-save-do not use embed fonts in the file
-```
 
 
 
