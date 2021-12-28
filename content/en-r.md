@@ -47,7 +47,14 @@ ggplot(df, aes(x=x var, y=y var)) +
         legend.text = element_text(size=10)) #change legend text font size
 ```
 
+# Powerpoint
 
+- Some of your fonts cannot be saved with the presentation
+
+```r
+Soveled according to https://www.youtube.com/watch?v=Xzwam-hNkP0.
+file-options-save-do not use embed fonts in the file
+```
 
 
 
