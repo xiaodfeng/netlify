@@ -1,7 +1,7 @@
 ---
-author: Jinji
-date: "2021-07-28"
-title: R Language Notes
+author: Xiaodong
+date: "2021-12-28"
+title: Problem solving Notes
 slug: "en/r"
 ---
 
@@ -9,9 +9,7 @@ slug: "en/r"
 > To save my time finding codes(since I can't remember all of them), I made some notes here. These codes were all from online resources and I might have made some adjustments or might not. Copyright belongs to the original author, please inform site owner if any infringement. 
 
 
-# C
-
-## Color
+# R
 
 - add more colors to a color palette
 
@@ -30,11 +28,6 @@ plot<-ggplot(df, aes(x = x var, y = y var, fill = some factor)) +
   scale_fill_manual(values =mycolors)
 
 ```
-
-
-# L
-
-## Legend
 
 - change legend size
 
