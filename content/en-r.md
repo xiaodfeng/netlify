@@ -36,19 +36,16 @@ plot<-ggplot(df, aes(x = x var, y = y var, fill = some factor)) +
 
 ```
 
-- change legend size
+# wechat
+
+- IOS怎么手机微信退出电脑版微信不退出啊？
 
 ```r
-ggplot(df, aes(x=x var, y=y var)) +
-  theme(legend.key.size = unit(1, 'cm'), #change legend key size
-        legend.key.height = unit(1, 'cm'), #change legend key height
-        legend.key.width = unit(1, 'cm'), #change legend key width
-        legend.title = element_text(size=14), #change legend title font size
-        legend.text = element_text(size=10)) #change legend text font size
+https://www.zhihu.com/question/325536295
+double click multiplewechat.bat 
+TASKKILL /F /IM wechat.exe
+start "" "C:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
+start "" "C:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
+
 ```
-
-
-
-
-
 
