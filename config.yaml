@@ -20,30 +20,28 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "About"
-      url: "/en/about/"
+    - name: "about"
+      url: "/about/"
       weight: 2
-    - name: "Blog"
+    - name: "blog"
       url: "/en/"
       weight: 3
-    - name: "Vitae"
-      url: "/en/vitae/"
-      weight: 4
-    - name: "R"
-      url: "/en/r/"
-      weight: 5 
-    - name: "关于"
-      url: "/cn/about/"
-      weight: 6
-    - name: "简历"
-      url: "/cn/vitae/"
-      weight: 7
     - name: "日志"
       url: "/cn/"
-      weight: 8
-    - name: "菜谱"
-      url: "/cn/recipe/"
-      weight: 9
+      weight: 4
+    - name: "recipe"
+      url: "/recipe/"
+      weight: 5
+    - name: "tips"
+      url: "/tips/"
+      weight: 6 
+    - name: "vitae"
+      url: "/vitae/"
+      weight: 7
+
+
+
+
 
 
 

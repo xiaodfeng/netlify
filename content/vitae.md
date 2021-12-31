@@ -2,7 +2,7 @@
 author: Kimki
 date: "2021-07-05"
 title: Curriculum Vitae
-slug: "en/vitae"
+slug: "vitae"
 ---
 
 ## Contact Information

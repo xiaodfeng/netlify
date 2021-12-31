@@ -1,8 +1,8 @@
 ---
 author: 金吉
 date: "2021-07-05"
-title: 菜谱
-slug: cn/recipe
+title: Recipe
+slug: recipe
 ---
 
 # J
