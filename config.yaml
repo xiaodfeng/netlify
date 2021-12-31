@@ -20,22 +20,22 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "about"
+    - name: "About"
       url: "/about/"
       weight: 2
-    - name: "blog"
+    - name: "Blog"
       url: "/en/"
       weight: 3
     - name: "日志"
       url: "/cn/"
       weight: 4
-    - name: "recipe"
+    - name: "Recipe"
       url: "/recipe/"
       weight: 5
-    - name: "tips"
+    - name: "Tips"
       url: "/tips/"
       weight: 6 
-    - name: "vitae"
+    - name: "Vitae"
       url: "/vitae/"
       weight: 7
 
@@ -57,12 +57,12 @@ menu:
 
 params:
   description: "Xiaodong Feng"
-  footer: "&copy; [Jinji](https://jinjipang.com) 2021 | [Github](https://github.com/JinjiPang) | [Twitter](https://twitter.com/PangKimki)"
+  footer: "&copy; [Xiaodong](https://fxd.name) 2021 | [Github](https://github.com/xiaodfeng)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
   highlightjsVersion: "9.12.0"
-  disqusURL: "https://jinjipang.com"
+  disqusURL: "https://fengxiaodong.com"
   customJS:
     - "js/fix-toc.js"
     - "js/center-img.js"
