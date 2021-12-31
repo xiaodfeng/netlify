@@ -1,6 +1,6 @@
 ---
 author: Xiaodong
-date: "2022-01-01"
+date: "2021-12-20"
 title: Curriculum Vitae
 slug: "vitae"
 ---
