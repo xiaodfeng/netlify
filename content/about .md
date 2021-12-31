@@ -1,6 +1,6 @@
 ---
 author: Xiaodong
-date: "2022-01-01"
+date: "2022-Jan-01"
 title: About
 slug: "about"
 ---
