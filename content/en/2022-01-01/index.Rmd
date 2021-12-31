@@ -1,0 +1,18 @@
+---
+title: A Diary example
+author: Xiaodong
+date: '2022-01-01'
+slug: A Diary example
+categories:
+  - '2021'
+tags: []
+---
+
+- "When 
+
+
+
+
+
+
+
