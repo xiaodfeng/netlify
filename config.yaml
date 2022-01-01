@@ -39,6 +39,9 @@ menu:
     - name: "Vitae"
       url: "/vitae/"
       weight: 7
+    - name: "Todo"
+      url: "/todo/"
+      weight: 8
 
 
 

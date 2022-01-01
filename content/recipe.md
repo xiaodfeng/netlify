@@ -1,9 +1,17 @@
 ---
-author: Xiaodong
 date: "2021-12-05"
+show_toc: true
 title: Recipe
 slug: recipe
+customCSS: ["utils/circled-numbers.css"]
+
 ---
+
+<style type="text/css">
+h2 { text-align: left; }
+</style>
+
+收集一些简化版的菜谱在此，按拼音排序。
 
 # J
 
