@@ -49,22 +49,21 @@ params:
   highlightjsTheme: "github"
   highlightjsVersion: "9.12.0"
   disqusURL: "https://fengxiaodong.com"
-
   author:
-    en: "Xiaodong Feng"
-    cn: "冯晓东"  
+   en: "Xiaodong Feng"
+   cn: "冯晓东"  
 
   customJS:
 
     - "fix-toc.js"
-        - "center-img.js"
-        - "right-quote.js"
-        - "no-highlight.js"
-        - "fix-footnote.js"
-        - "math-code.js"
-        - "external-link.js"
-        - "alt-title.js"
-        - "header-link.js"
+    - "center-img.js"
+    - "right-quote.js"
+    - "no-highlight.js"
+    - "fix-footnote.js"
+    - "math-code.js"
+    - "external-link.js"
+    - "alt-title.js"
+    - "header-link.js"
 
 
 
