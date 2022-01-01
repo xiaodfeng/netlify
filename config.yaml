@@ -1,19 +1,20 @@
-baseurl: /
-languageCode: en-us
-title: xiaodong
+baseurl: "https://fxd.name/"
+languageCode: "en-us"
+title: "Xiaodong Feng"
 theme: "hugo-ivy"
-googleAnalytics: ""
-disqusShortname: "xiaodong_feng"
+disqusShortname: "xiaodong"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 hasCJKLanguage: true
+
+enableEmoji: true
+
 preserveTaxonomyNames: true
 footnotereturnlinkcontents: ↩
 rssLimit: 100
 
-
 permalinks:
-  note: /note/:year/:month/:day/:slug/
-  post: /post/:year/:month/:day/:slug/
+  cn: "/:sections/:year/:month/:slug/"
+  en: "/:sections/:year/:month/:slug/"
 
 menu:
   main:
@@ -41,43 +42,28 @@ menu:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 params:
   description: "Xiaodong Feng"
   footer: "&copy; [Xiaodong](https://fxd.name) 2021 | [Github](https://github.com/xiaodfeng)"
-  highlightjsCDN: "//cdn.bootcss.com"
-  highlightjsLang: ["r", "yaml", "tex"]
+   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
   highlightjsVersion: "9.12.0"
   disqusURL: "https://fengxiaodong.com"
   customJS:
     - "js/fix-toc.js"
-    - "js/center-img.js"
-    - "js/right-quote.js"
-    - "js/no-highlight.js"
-    - "js/fix-footnote.js"
-    - "js/math-code.js"
-    - "js/external-link.js"
-    - "js/alt-title.js"
-    - "js/header-link.js"
-  author:
+        - "js/center-img.js"
+        - "js/right-quote.js"
+        - "js/no-highlight.js"
+        - "js/fix-footnote.js"
+        - "js/math-code.js"
+        - "js/external-link.js"
+        - "js/alt-title.js"
+        - "js/header-link.js"
+
+   author:
     en: "Xiaodong Feng"
-    cn: "冯晓东"
-    
-  
+    cn: "冯晓东"  
+
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]
     fractions: false
