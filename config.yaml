@@ -74,9 +74,9 @@ params:
     - "js/alt-title.js"
     - "js/header-link.js"
   author:
-    en: "Kimki"
-    cn: "金吉"
-  
+    en: "Xiaodong Feng"
+    cn: "冯晓东"
+    
   
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]
