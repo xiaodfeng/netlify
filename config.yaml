@@ -45,24 +45,28 @@ menu:
 params:
   description: "Xiaodong Feng"
   footer: "&copy; [Xiaodong](https://fxd.name) 2021 | [Github](https://github.com/xiaodfeng)"
-   highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
   highlightjsVersion: "9.12.0"
   disqusURL: "https://fengxiaodong.com"
-  customJS:
-    - "js/fix-toc.js"
-        - "js/center-img.js"
-        - "js/right-quote.js"
-        - "js/no-highlight.js"
-        - "js/fix-footnote.js"
-        - "js/math-code.js"
-        - "js/external-link.js"
-        - "js/alt-title.js"
-        - "js/header-link.js"
 
-   author:
+  author:
     en: "Xiaodong Feng"
     cn: "冯晓东"  
+
+  customJS:
+
+    - "fix-toc.js"
+        - "center-img.js"
+        - "right-quote.js"
+        - "no-highlight.js"
+        - "fix-footnote.js"
+        - "math-code.js"
+        - "external-link.js"
+        - "alt-title.js"
+        - "header-link.js"
+
+
 
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]
