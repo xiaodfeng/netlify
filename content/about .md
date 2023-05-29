@@ -3,17 +3,29 @@ title: About
 slug: "about"
 ---
 
-I am Xiaodong Feng. A post-doc researcher in University of Groningen. My research project during PhD is improving identification and quantification in metabolomics applying modern data analysis techniques. The goal of this project is to provide a reliable preprocessing tool by improving the open source platforms such as XCMS, and considerably improve the identification process using state of the art data processing techniques such as Bayesian statistics, multivariate analysis and Artificial Intelligence (AI).  The project will focus in improving the state of the previously listed issues initially for the lipidomics and with further potential extend to other metabolomics sub-categories. I like photography, poetry and travelling during my free time.
+## 我是谁？
 
-interests:
-  - Photography
-  - Poetry
-  - Travelling
+我是冯晓东。
 
+## 我从哪里来？
 
-## Contact me
+我来自山东高密
 
-You can find me on [GitHub](https://github.com/xiaodfeng) (where I'm active almost every day) 
+## 我要往哪里去？
+
+我想研究长生不老
+
+## 我喜欢什么？
+
+摄影，读书，音乐，羽毛球
+
+## 我讨厌什么？
+
+本站目前采用
+
+## 我能为你做些什么？
+
+本站目前采用
 
 ## 本站架构
 
